@@ -56,7 +56,7 @@ I am an entry-level security specialist focused on bridging the gap between Offe
 ### 📫 Connect with Me
 * www.linkedin.com/in/amalalexcheriyan
 
-* [Email](mailto:your@email.com)
+* [Email](mailto:amalalexcheriyan@email.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
