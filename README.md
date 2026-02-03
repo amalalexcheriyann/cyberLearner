@@ -1,4 +1,4 @@
-# 🛡️ Hello, I'm [Your Name]
+# 🛡️ Hello, I'm Amal Alex Cheriyan
 ### Cybersecurity Analyst | Purple Team Enthusiast | Home Lab Builder
 
 I am an entry-level security specialist focused on bridging the gap between Offensive Security (Red Team) and Defensive Operations (Blue Team). I believe the best way to secure a network is to understand exactly how to break it.
@@ -47,14 +47,15 @@ I am an entry-level security specialist focused on bridging the gap between Offe
 ---
 
 ## 📜 Certifications & Learning
-* **CompTIA Security+** (In Progress/Completed)
-* **TryHackMe:** Top 10% Rank
-* **Google Cybersecurity Certificate**
+* **CompTIA Security+** 
+* **CEH V13(Theory & Practical)** 
+* **ISC2 CC**
 
 ---
 
 ### 📫 Connect with Me
-* [LinkedIn](LINK_TO_YOUR_LINKEDIN)
+* www.linkedin.com/in/amalalexcheriyan
+
 * [Email](mailto:your@email.com)
 
 <p align="center">
